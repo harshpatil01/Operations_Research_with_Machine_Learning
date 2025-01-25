@@ -92,18 +92,4 @@ Contributions are welcome! If you'd like to contribute, please:
 
 ---
 
-## 📄 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## ✉️ Contact
-
-If you have any questions or suggestions, feel free to reach out:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
----
-
 Thank you for visiting this repository! 🌟 Feel free to explore, use, and share the projects.
